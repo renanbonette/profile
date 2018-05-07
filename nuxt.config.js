@@ -37,4 +37,5 @@ module.exports = {
       }
     }
   },
+  router: { base: '/profile/' },
 }
