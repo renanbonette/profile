@@ -1,6 +1,6 @@
 # Personal Web Profile
 
-> Projeto de portifólio w profile web usando a biblioteca Nuxt.js para server-side-render 
+> Projeto de profile web usando a biblioteca Nuxt.js para server-side-render 
 
 ## Build Setup
 
